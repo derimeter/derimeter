@@ -8,14 +8,14 @@
 
 * **[Öffentliches Cyber-Lagebuch](https://www.derimeter.de/lagebuch)**  
   Chronologisches Archiv dokumentierter Cyberangriffe, Ransomware-Vorfälle und Datenabflüsse bei Unternehmen, Behörden und KRITIS-Betreibern im DACH-Raum – belegt durch Primärquellen, Behördenmeldungen und Medienberichte.
-* **[Cyber-Gefährdungsindex](https://www.derimeter.de/gefaehrdungsindex)**  
+* **[Cyber-Gefährdungsindex](https://www.derimeter.de/cyber-gefaehrdungsindex)**  
   Laufende Bewertung der aktuellen Bedrohungslage für Unternehmen und öffentliche Einrichtungen in Deutschland.
-* **[24/7 Cyber-Notfallhilfe](https://www.derimeter.de/notfallhilfe)**  
+* **[24/7 Cyber-Notfallhilfe](https://www.derimeter.de/cyber-notfallhilfe)**  
   Soforthilfe und strukturierte Erstberatung bei akuten Cybervorfällen (Ransomware, Systemausfall, Kompromittierung) – auch ohne bestehenden Rahmenvertrag.  
   **Notfall-Hotline (24/7):** `030 4243 3000`
 * **[Anbieterverzeichnis für IT-Sicherheit](https://www.derimeter.de/anbieter)**  
   Kuratierte Übersicht spezialisierter IT-Sicherheitsdienstleister, Incident-Response-Teams und Systemhäuser im DACH-Raum.
-* **[Fachredaktion & Analysen](https://www.derimeter.de/aktuelles)**  
+* **[Fachredaktion & Analysen](https://www.derimeter.de/)**  
   Hintergrundberichte, NIS-2-Einordnungen, Schwachstellen-Warnungen und Präventionsleitfäden für den Mittelstand.
 
 ---
